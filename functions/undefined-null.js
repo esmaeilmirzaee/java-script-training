@@ -20,5 +20,5 @@ let result = squre()
 
 // null as assigned value (reset)
 let age = 27
-age = null
+age = null 
 console.log(age)
